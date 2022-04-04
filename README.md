@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything EPD in SaaS. We're standing up a product and engineering org here, and I could use advice!
 - 🌱 I’m currently learning about the differences between product and foundations Engineering teams at my company.
 - 💞️ I’m looking to share tips and tricks for finding and landing your dream job :)
-- 📫 How to reach me: rob@joinhomebase.com
+- 📫 How to reach me: rob@joinhomebase.com | https://linkedin.com/in/rgold29 | 901.213.8813 | @authief on Twitter
 
 <!---
 authief/authief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
